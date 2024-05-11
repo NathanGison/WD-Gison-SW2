@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Dev */
+header,
+header * {
+    outline: 1px dashed *blue;
+}
+section.hero   ,
+section.hero * {
+    outline: 1px dashed red;
+}
+/* Dep */
+header{
+    width: 100%;
+    position: fixed;
+    background-color: rgba(255, 255, 255, 0.588);
+    z-index: 20;
+
+    & nav {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 18px;
+
+        & h1{
+                font-size: xx-large;
+        }
+
+        & button {
+            border: none;
+            background: none;
+            font-size: medium;
+            font-weight: 600;
+            color: rgb(82, 82, 82);
+            transition: .3s ease-in-out;
+            cursor: pointer;
+            &:hover {
+                color: rgb(138, 9, 9);
+            }
+        }
+    }
+}
+
+section.hero{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    position: relative;
+
+    & img {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 0;
+        object-fit: cover;
+        height: 100vh;
+        opacity: 90%;
+        z-index: -1;
+
+        & .content {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background: rgba(255, 255, 255, 0.349);
+            padding: 1.5rem;
+            margin: 1rem;
+            gap: 14px;
+
+            & h3{
+                font-size: 1.5rem;
+            }
+            & h2{
+                font-size: 3rem;
+            }   
+            & p {
+                font-size: 1.2rem;
+                text-align: center;
+            }
+
+            & button{
+                padding: 8px 16px;
+                border-radius: 5px;
+                border:none;
+                cursor: pointer;
+                transition: .3s ease-out;
+
+            &:hover{
+                transform:  scale(110%) translateY(-4px);
+                box-shadow: rgba(0, 0, 0, 0.74) 0px 15px 10px -7px; 
+            }   
+
+    }
+}
+}
