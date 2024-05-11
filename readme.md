@@ -7,11 +7,11 @@
   <a href="https://github.com/NathanGison/WD-Gison-Reuel-Nathan-TC04/">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Nathan Gison</h3>
+  <h3 align="center">Seatwork 2</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Nathan Gison
 </div>
 
 <br />
