@@ -6,26 +6,20 @@
 <div align="center">
   <a href="https://github.com/NathanGison/WD-Gison-Reuel-Nathan-TC04/">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Seatwork 2</h3>
 </div>
-<!-- TODO: Make a short description -->
 <div align="center">
   Nathan Gison
 </div>
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=[zyx-0314/WD-Template-Project](https://github.com/NathanGison/WD-Template-Project))
+![](https://visit-counter.vercel.app/counter.png?page=NathanGison/WD-Gison-SW2)
 
 ---
 
 <br />
 <br />
-
-<!-- TODO: If you want to add more layers for your readme -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -52,29 +46,17 @@
 ---
 
 ## Overview
-
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+The project involves creating a digital resume using HTML and CSS, aiming to design a professional, easy-to-read online resume that enhances web development skills. The purpose is to provide a versatile, shareable format for showcasing personal, educational, and professional information, making a strong impression on potential employers or clients.
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Single Page Website
+
 
 ### Technology
-<!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules and Principles
 1. Always use ***WD-*** in the Title of the Project for the Subject
@@ -109,4 +91,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| W3 Schools/Background | I find the appropriate designs to enhance my website | https://www.w3schools.com/html/html_images_background.asp |

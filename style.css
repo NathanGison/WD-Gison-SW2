@@ -7,7 +7,7 @@
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
-    background-color: #ACD793;
+    background-color: #A1DD70;
     color: #333;
 }
 
@@ -31,7 +31,7 @@ nav h1 {
 
 nav button {
     background: #fff;
-    color: #333;
+    color: #5E228F;
     border: none;
     padding: 0.5rem 1rem;
     border-radius: 5px;
@@ -116,8 +116,8 @@ section h4 {
     margin-bottom: 1rem;
     color: #000;
     background: #185eb9;
-    padding: 0.5rem;
-    border-radius: 10px;
+    padding: 0.2rem;
+    border-radius: 2px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
